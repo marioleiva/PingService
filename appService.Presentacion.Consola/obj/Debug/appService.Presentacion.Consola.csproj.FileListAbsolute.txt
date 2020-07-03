@@ -1,0 +1,16 @@
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.Presentacion.Consola.exe.config
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.Presentacion.Consola.exe
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.Presentacion.Consola.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.Infraestructura.Entidades.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\Topshelf.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\Dapper.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.Infraestructura.Entidades.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\appService.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\Topshelf.xml
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\bin\Debug\Dapper.xml
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\obj\Debug\appService.Presentacion.Consola.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\obj\Debug\appService.Presentacion.Consola.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\obj\Debug\appService.Presentacion.Consola.csproj.CopyComplete
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\obj\Debug\appService.Presentacion.Consola.exe
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Presentacion.Consola\obj\Debug\appService.Presentacion.Consola.pdb

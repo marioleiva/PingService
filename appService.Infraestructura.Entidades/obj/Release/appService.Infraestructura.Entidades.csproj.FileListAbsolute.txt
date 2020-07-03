@@ -1,0 +1,5 @@
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Infraestructura.Entidades\bin\Release\appService.Infraestructura.Entidades.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Infraestructura.Entidades\bin\Release\appService.Infraestructura.Entidades.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Infraestructura.Entidades\obj\Release\appService.Infraestructura.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Infraestructura.Entidades\obj\Release\appService.Infraestructura.Entidades.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService.Infraestructura.Entidades\obj\Release\appService.Infraestructura.Entidades.pdb

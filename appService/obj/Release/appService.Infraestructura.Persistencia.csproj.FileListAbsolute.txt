@@ -1,0 +1,11 @@
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\appService.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\appService.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\appService.Infraestructura.Entidades.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\Dapper.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\appService.Infraestructura.Entidades.pdb
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\bin\Release\Dapper.xml
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\obj\Release\appService.Infraestructura.Persistencia.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\obj\Release\appService.Infraestructura.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\obj\Release\appService.Infraestructura.Persistencia.csproj.CopyComplete
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\obj\Release\appService.dll
+C:\Users\xM4riuSx\Desktop\ServicioPing\appService\appService\obj\Release\appService.pdb
